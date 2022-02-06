@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 7599829831091452607}
   m_Layer: 0
   m_Name: Columns
-  m_TagString: Untagged
+  m_TagString: column
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -325,3 +325,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4732e4e12dd0a0647a9fd7345184770a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scrollSpeed: -1.5
